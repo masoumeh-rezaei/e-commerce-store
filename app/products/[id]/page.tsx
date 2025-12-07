@@ -30,7 +30,7 @@ export const generateMetadata=async ({params}:{params:{id:string}})=>{
     }
 }
 
-const ProductPage=async ({params,searchParams}:{params:Promise<{id:string}>;searchParams :Promise<{color:string ; size : string}>})=>{
+const ProductPage=async ({searchParams}:{params:Promise<{id:string}>;searchParams :Promise<{color:string ; size : string}>})=>{
 
     const {color,size}=await searchParams
     const selectedSize = (size || product.sizes[0] as string);

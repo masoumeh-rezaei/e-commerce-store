@@ -4,7 +4,7 @@ import {ArrowRight, Trash2} from "lucide-react";
 import {useState} from "react";
 import ShippingForm from "@/components/ShippingForm";
 import PaymentForm from "@/components/PaymentForm";
-import {CartItemsType, ShippingFormInputs} from "@/types";
+import { ShippingFormInputs} from "@/types";
 import useCartStore from "@/stores/cartStore";
 
 

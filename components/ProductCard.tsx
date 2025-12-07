@@ -22,12 +22,13 @@ const ProductCard=({product}:{product:ProductType})=>{
     const {addToCart}=useCartStore();
 
     const handleAddToCart=()=>{
+
         addToCart({
             ...product,
             quantity:1,
             selectedSize:productTypes.size,
             selectedColor:productTypes.color,
-        }),
+        })
             toast.success('product added to cart')
 
     }
