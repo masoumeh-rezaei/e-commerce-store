@@ -1,5 +1,7 @@
 {
   "functions": {
-    "protectNext": false
+    "protectNext": {
+      "enabled": false
+    }
   }
 }
