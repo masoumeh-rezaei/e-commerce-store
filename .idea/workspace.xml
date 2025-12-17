@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0a8af00-8448-4efc-b0e6-70d5232e60fe" name="Changes" comment="clonning the admin ui">
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/products/columns.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/products/data-table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/products/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/columns.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/data-table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AddCategory.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AddOrder.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AddProduct.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AddUser.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/ui/textarea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/1g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/1gr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/1p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/2g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/2gr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/3b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/3bl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/3gr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/4p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/4w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/5bl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/5o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/5r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/6g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/6w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/7g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/7p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/public/products/8gr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/columns.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/columns.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/data-table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/data-table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/payment/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/[username]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/app/users/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AppBarChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AppBarChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AppSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/AppSidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/CardList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/CardList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/EditUser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/EditUser.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/TablePagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/admin/Dashboard-shadcn-ui/components/TablePagination.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/admin/Dashboard-shadcn-ui" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;masoumeh-rezaei&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/masoumeh-rezaei/e-commerce-store.git&quot;,
+    &quot;accountId&quot;: &quot;0065322a-0843-4663-8e88-5b04f597fd1b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36pgMHXwHfImNm9kxy9s3FnKW1n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/masoume/WebstormProjects/e-comerce-stor/admin/Dashboard-shadcn-ui/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\masoume\\WebstormProjects\\e-comerce-stor\\admin\\Dashboard-shadcn-ui\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\masoume\WebstormProjects\e-comerce-stor\admin\Dashboard-shadcn-ui\components" />
+      <recent name="C:\Users\masoume\WebstormProjects\e-comerce-stor\admin\Dashboard-shadcn-ui\app\users" />
+      <recent name="C:\Users\masoume\WebstormProjects\e-comerce-stor\admin\Dashboard-shadcn-ui\app\products" />
+      <recent name="C:\Users\masoume\WebstormProjects\e-comerce-stor\admin\Dashboard-shadcn-ui\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a8af00-8448-4efc-b0e6-70d5232e60fe" name="Changes" comment="" />
+      <created>1765708879982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765708879982</updated>
+      <workItem from="1765708881916" duration="26000" />
+      <workItem from="1765709020574" duration="4163000" />
+      <workItem from="1765876875710" duration="6590000" />
+      <workItem from="1765958928133" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="clonning the admin ui">
+      <option name="closed" value="true" />
+      <created>1765709150960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765709150960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clonning the admin ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="clonning the admin ui" />
+  </component>
+</project>
